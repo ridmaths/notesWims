@@ -39,7 +39,7 @@ dateAuj = date.today()
 
 ## Lecture du csv 
 
-fichier = open("notes-wims.csv","r")
+fichier = open("notes-wims.csv","r",encoding="windows-1252")
 contenu = fichier.read()
 fichier.close()
 
