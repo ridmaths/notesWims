@@ -32,7 +32,7 @@ class Feuille:
 
 ## Constantes utiles
 
-nomClasse = "2GT4"
+nomClasse = "la classe"
 dateAuj = date.today()
 
 #############################################################################
